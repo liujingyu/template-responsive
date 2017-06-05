@@ -1,0 +1,16 @@
+{
+    "name": "liujingyu/template-responsive",
+    "description": "demo",
+    "type": "liujingyu-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujingyu",
+            "email": "liujingyu@ling.ai"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "liujingyu/template-installer-plugin":"*"
+    }
+}
